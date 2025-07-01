@@ -30,10 +30,10 @@ A simple calculator with memory slot and history of previous operations, built w
 
 ## 🖼️ Screenshots
 
-![Front] (images/Front.png)
-![Input number] (images/Calc.png)
-![Memory Slot] (images/Calc_Mem.png)
-![Error] (images/Error.png)
+![Front] ([images/Front.png](https://github.com/dev-prado89/Calculator/blob/main/images/Front.png?raw=true))
+![Input number] ([images/Calc.png](https://github.com/dev-prado89/Calculator/blob/main/images/Calc.png?raw=true))
+![Memory Slot] ([images/Calc_Mem.png](https://github.com/dev-prado89/Calculator/blob/main/images/Calc_Mem.png?raw=true))
+![Error] ([https://github.com/dev-prado89/Calculator/blob/main/images/Error.png?raw=true](https://github.com/dev-prado89/Calculator/blob/main/images/Error.png?raw=true))
 
 ---
 
