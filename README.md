@@ -30,10 +30,10 @@ A simple calculator with memory slot and history of previous operations, built w
 
 ## 🖼️ Screenshots
 
-![Screenchot 1] 
-![Screenchot 2]
-![Screenchot 3]
-![Screenchot 4]
+![Front] (images/Front.png)
+![Input number] (images/Calc.png)
+![Memory Slot] (images/Calc_Mem.png)
+![Error] (images/Error.png)
 
 ---
 
